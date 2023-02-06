@@ -5,16 +5,6 @@
 Interests: Frontend development, Discord bot development, Automation with Arduino.
 
 ##
-<p align="left">
-</p>
-
-## I am Lucas Vitancourt!
-
-<br />
-
-Interests: Frontend development, Discord bot development, Automation with Arduino.
-
-##
 
 <a href="https://github.com/lucasvitancourt">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasvitancourt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=4073FF&title_color=4073FF&hide_border=true"
@@ -42,6 +32,3 @@ https://github-readme-stats-eight-theta.vercel.app/api?username=lucasvitancourt&
 <kbd> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) </kbd>
 
 <div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvitancourt&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lucasvitancourt" /></p>
-
