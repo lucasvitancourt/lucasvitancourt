@@ -11,7 +11,6 @@ Interests: Frontend development, Discord bot development, Automation with Arduin
 align="right"
 
 </div>
-https://github-readme-stats-eight-theta.vercel.app/api?username=lucasvitancourt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=4073FF&title_color=4073FF&hide_border=true
 <div style="display: inline_block" align="center"><br>
 
   <img align="center" alt="React.js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
