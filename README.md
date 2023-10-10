@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 <div align="center">
-Meu nome é Lucas e estudo todos os dias para um dia me tornar um grande desenvolvedor.
+# Meu nome é Lucas e estudo todos os dias para um dia me tornar um grande desenvolvedor.
 </div>
 
 <div align="center">
