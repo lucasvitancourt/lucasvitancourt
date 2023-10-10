@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
 
-![Snake animation](https://github.com/yourusername/lucasvitancourt/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasvitancourt/lucasvitancourt/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
