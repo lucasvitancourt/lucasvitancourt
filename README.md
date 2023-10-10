@@ -21,5 +21,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
 <div align="center">
-# Email: lucasandrevitancourt@gmail.com
+  lucasandrevitancourt@gmail.com
 </div>
