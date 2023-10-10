@@ -1,6 +1,8 @@
+<div align="center">
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 # Meu nome é Lucas e estudo todos os dias para um dia me tornar um grande desenvolvedor.
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -21,5 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
-
+<div align="center">
 # Email: lucasandrevitancourt@gmail.com
+</div>
