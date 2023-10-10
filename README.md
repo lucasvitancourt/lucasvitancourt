@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo Lucas Vitancourt, estudo para me tornar um desenvolvedor Web</h2>
+<h2 align="left">Olá, me chamo Lucas Vitancourt, estudo para me tornar um Desenvolvedor Web</h2>
 
 ###
 
