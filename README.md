@@ -1,8 +1,8 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-Meu nome é [Seu Nome] e sou um desenvolvedor apaixonado por tecnologia. Aqui estão algumas das linguagens e ferramentas que eu trabalho:
+# Meu nome é Lucas e estudo todos os dias para um dia me tornar um grande desenvolvedor.
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -22,6 +22,4 @@ Meu nome é [Seu Nome] e sou um desenvolvedor apaixonado por tecnologia. Aqui es
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
 
-Sinta-se à vontade para explorar meus repositórios e projetos para saber mais sobre meu trabalho. Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato.
-
-Vamos codificar algo incrível juntos! 😄
+# Email: lucasandrevitancourt@gmail.com
