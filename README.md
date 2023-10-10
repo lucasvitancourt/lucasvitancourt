@@ -1,7 +1,5 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
-<div align="center">
 # Meu nome é Lucas e estudo todos os dias para um dia me tornar um grande desenvolvedor.
-</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
