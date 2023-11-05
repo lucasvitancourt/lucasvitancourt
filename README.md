@@ -2,25 +2,26 @@
 
 Meu nome é Lucas e estudo todos os dias para me tornar um grande desenvolvedor.
 
-## 🚀 Habilidades
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt "html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo" />
+</div>
 
-- Desenvolvimento Web:
-  - ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
-  - ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React
-  - ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5
-  - ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3
-
-- Linguagens de Programação:
-  - ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python
-  - ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) C++
-  - ![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg) Arduino
-
-- Design Gráfico:
-  - ![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg) Adobe Photoshop
-  - ![Illustrator](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg) Adobe Illustrator
-
-## 📬 Contato
-
-- E-mail: lucasandrevitancourt@gmail.com
-
-Sinta-se à vontade para explorar meus repositórios e projetos aqui no GitHub! Se você tiver alguma pergunta ou quiser entrar em contato, não hesite em enviar um e-mail.
+<div align="center">
+  lucasandrevitancourt@gmail.com
+</div>
