@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lucasvitancourt/lucasvitancourt/output/snake.svg" alt="Snake animation" />
-
 ###
