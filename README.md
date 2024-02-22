@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./banner.png)
 
 <h2 align="left">Meu nome é Lucas e estudo todos os dias para me tornar um desenvolvedor melhor.</h2>
 
