@@ -1,79 +1,94 @@
-# Olá, eu sou Lucas Vitancourt 👋
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B91C1C&width=500&lines=Desenvolvedor+Full+Stack+%26+Engenharia;Java+Spring+Boot+%7C+React.js;Python%2C+Node.js+%26+Automação;UX%2FUI+Design+%26+Arquitetura" alt="Typing SVG" />
-  </a>
-</div>
 
-<div align="center">
-  <i>Transformando ideias em software escalável: do design ao backend, com automação e inovação.</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:B91C1C&height=190&section=header&text=Lucas%20Vitancourt&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%E2%80%A2%20RS%2C%20Brasil&descSize=18&descAlignY=58" alt="Lucas Vitancourt" width="100%" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B91C1C&center=true&vCenter=true&width=560&lines=Do+banco+de+dados+ao+app+no+celular;PHP+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Pagamentos%2C+APIs+e+produto+em+produ%C3%A7%C3%A3o;Python%2C+automa%C3%A7%C3%A3o+e+hardware" alt="Typing SVG" /></a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/lucasvitancourt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lucasvitancourt@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://wa.me/55991174726"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://terminallucasvitancourt.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=flat-square&logo=gnubash&logoColor=white" alt="Portfólio" /></a>
+
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+### 👋 Oi, eu sou o Lucas
 
-Sou um profissional híbrido que conecta **Engenharia**, **Desenvolvimento Full Stack** e **Design**. Com experiência em backend, frontend e automação, construo soluções escaláveis e interfaces intuitivas.
+Construo produto de ponta a ponta: modelo o banco, escrevo a API, desenho a interface e coloco no ar. Gosto de software que resolve problema real de gente real — com pagamento funcionando, tela rápida no celular e painel que o cliente entende sem manual.
 
-- ☕ **Backend:** Java (Spring Boot), Node.js, PHP, APIs RESTful, Microservices.
-- ⚛️ **Frontend:** React.js, Next.js, TypeScript, interfaces responsivas.
-- 🎨 **Design:** UX/UI Design com Figma e Design Systems.
-- ⚙️ **Automação:** Python, N8N, processos automatizados e integração de sistemas.
-
----
-
-## 🛠️ Tech Stack
-
-### • Languages
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-
-### • Backend & Architecture
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=docker&logoColor=white)
-
-### • Frontend & Design
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
-
-### • Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### • DevOps, Automation & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Scrum](https://img.shields.io/badge/scrum-%230575E6.svg?style=for-the-badge&logo=scrum&logoColor=white)
+- 🎟️ Hoje estou construindo a **[Ticket8](https://ticket8.online)**, uma plataforma completa de venda de ingressos
+- 🧠 Estudando arquitetura de sistemas, desempenho e IA aplicada a produto
+- 🤝 Aberto a projetos freelance e oportunidades full-stack
+- ⚡ Curiosidade: já fiz uma mão robótica imitar a minha com visão computacional e Arduino
 
 ---
 
-## 📫 Vamos Conversar?
+### 🚀 Em destaque: Ticket8
+
+<table>
+<tr>
+<td>
+
+**Plataforma de ingressos para eventos** — site, painel do produtor, app mobile e API, tudo desenvolvido por mim.
+
+- 💳 Checkout em uma tela com **PIX e cartão** (Mercado Pago), idempotente e com webhooks
+- 📱 **App mobile** em React Native (Expo) com carteira de ingressos e check-in por QR Code
+- 📊 Painel do produtor com financeiro, relatórios, lotes, cupons, cortesias e equipe
+- ⚙️ Cache, limites e travas com **Redis**, fila de e-mails, tema escuro e PWA
+- 🤖 Recursos de **IA** para descrição de eventos e assistente no painel
+
+<img src="https://skillicons.dev/icons?i=php,mysql,redis,react,ts,nodejs,tailwind&theme=dark" alt="Stack Ticket8" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Projetos open source
+
+| Projeto | O que é | Stack |
+|:--|:--|:--|
+| 🌐 **[CleanBrowser](https://github.com/lucasvitancourt/CleanBrowser)** ⭐ 37 | Navegador desktop minimalista com command palette, gestos do mouse, abas com drag & drop e tema claro/escuro | Electron · JavaScript |
+| 🤖 **[RoboticHandPY](https://github.com/lucasvitancourt/RoboticHandPY)** | Mão robótica que copia os movimentos da sua mão em tempo real via webcam | Python · OpenCV · MediaPipe · Arduino |
+| 💻 **[PortifolioTerminal](https://github.com/lucasvitancourt/PortifolioTerminal)** | Portfólio interativo que funciona como um terminal Linux — [veja ao vivo](https://terminallucasvitancourt.netlify.app/) | HTML · CSS · JavaScript |
+| 📚 **[gestao-biblioteca-api](https://github.com/lucasvitancourt/gestao-biblioteca-api)** | API REST para livros, autores e empréstimos | Go · SQLite |
+| 🎧 **[Minimal-Browser](https://github.com/lucasvitancourt/Minimal-Browser)** ⭐ 8 | Navegador ultraleve (&lt;100 MB de RAM) para ouvir música e ver vídeos enquanto joga | C# · .NET |
+| 🎬 **[Hity_Youtube_Download](https://github.com/lucasvitancourt/Hity_Youtube_Download)** | App desktop para baixar vídeos do YouTube escolhendo a qualidade | VB.NET |
+
+---
+
+### 🛠️ Stack
+
+<p align="center">
+  <b>Linguagens</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,java,cs,go&perline=7" alt="Linguagens" />
+</p>
+
+<p align="center">
+  <b>Front-end & mobile</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,electron,figma&perline=7" alt="Front-end" />
+</p>
+
+<p align="center">
+  <b>Back-end & dados</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,mysql,postgres,redis,sqlite&perline=7" alt="Back-end" />
+</p>
+
+<p align="center">
+  <b>Infra & ferramentas</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,apache,vscode&perline=7" alt="Ferramentas" />
+</p>
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucasvitancourt/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/lucasvitancourt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:lucasvitancourt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://wa.me/55991174726" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
+
+**Tem um projeto em mente?** Me chama no [LinkedIn](https://www.linkedin.com/in/lucasvitancourt/) ou no [WhatsApp](https://wa.me/55991174726) 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:111827&height=100&section=footer" alt="" width="100%" />
+
 </div>
